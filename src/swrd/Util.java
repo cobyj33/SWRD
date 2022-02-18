@@ -5,7 +5,6 @@ import java.awt.GridBagConstraints;
 import java.awt.image.BufferedImage;
 
 public class Util {
-	
 	public static double getAngle(double x1, double y1, double x2, double y2) {
 		double addedAngle = 0;
 		try {
